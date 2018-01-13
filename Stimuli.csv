@@ -1,0 +1,26 @@
+StimulusText, Sensible [True|False],Direction [Away|Towards]
+Peter gives you a ball,True,Towards
+You paper give a Sally,False,Away
+You give Peter a ball,True,Away
+Peter ball gives you,False,Towards
+This was the test round!,,
+You deal Mark the cards,True,Away
+You give Sarah a pen,True,Away
+You give Sam money,True,Away
+You give Tim a coin,True,Away
+You send Mark a letter,True,Away
+You give Sarah pen a,False,Away
+You a send letter Mark,False,Away
+You bring a plate Anna,False,Away
+You give a Tim coin,False,Away
+You money Sam give,False,Away
+Mark deals you the cards,True,Towards
+Sarah gives you a pen,True,Towards
+Sam gives you money,True,Towards
+Time gives you a coin,True,Towards
+Mark sends you a letter,True,Towards
+Mark deals the cards you,False,Towards
+Sarah gives a pen you,False,Towards
+Sam money gives you,False,Towards
+Tim gives a coin you,False,Towards
+Mark you a letter send,False,Towards
